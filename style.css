@@ -1,0 +1,34 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+body {
+    text-align: center;
+    font-family: "Comfortaa";
+    margin-top: 20px;
+    background-color: rgb(12, 12, 12);
+    color: white;
+}
+
+#desc {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a {
+    background-color: rgb(12, 12, 12);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: darkgrey;
+}
